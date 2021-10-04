@@ -1,7 +1,7 @@
 ---
 namespace: "freeipa"
 name: "ansible_freeipa"
-version: "A.B.C"
+version: "0.3.9"
 description: "Ansible roles and modules for FreeIPA"
 
 authors:
